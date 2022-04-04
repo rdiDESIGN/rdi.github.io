@@ -5,6 +5,8 @@
 在此感谢作者将代码分享出来可以供个人或者商业用途。
 若涉及到版权侵权，请及时通知我删除，lynnpiao@gmail.com
 
+还未修改，正研究学习，才学会上传的第一步，不明白桌面端为什么上传不了。
+
 ## Creator
 
 thanks for David Miller (http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
